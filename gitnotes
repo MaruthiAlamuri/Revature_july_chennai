@@ -1,0 +1,47 @@
+SDLC
+
+SDLC Stands for Software Deveploment life cycle 
+SDLC used by Software Engineers and Developers 
+The main goal of SDLC is to satisfy cilent and complete the things with in the time and estimate cost 
+
+
+
+Ajile Process
+
+it is a process to implement module(itterative and incremental).
+
+Project Manager ------ scrum Master    cilent ----- stackOwner
+  1.Project Manager assign works to all team members
+  2.he is the screm master
+  3.whatever information  he taken from client is ntg but product catalog 
+  4.whatever the information in Product catalog divided into stories
+  5.Each will have multiple story points
+  6.The time which is given to complete the story that is called sprint
+  7.Every day or week  meetings will happen those meetings we will call scrum meetings
+  8.if you face any problem while implementing sprint work those problems have to note in baglog
+  9.All these work done in jira tool
+  10.RetroSpect -> summary
+Scrum team
+   1.Project Lead
+   2.Developers
+   3.Team Lead
+   4.Testers....etc
+
+
+
+
+Commands
+git --version : it is used to check whether the git is installed or not as well as if you have already installed it shows version of that git.
+git --config : To user name .....ets
+git --config --global --list
+git ---config ---global user.name "Maruthi" - This command is used to create user.name...etc
+git status : To check status of our files where is it? like
+git init : it means initialize/to create local repo in our System
+git add : adding your file from working area to staging area,while using git add command we have to provide file name what we are adding , if you add all files we need to you . symbool
+git commit : adding your files from staging area to lacal repo ,while commit we have you mention what you are commiting in the form of message -m
+git commit -m "my first commit" like
+git commit -a -m "message": it is for skiping the staging area
+git rm -cached <filename>:if want to remove file from staging area/local repo 
+git diff : it is used to see wt changes made by you from first onwards
+git log :  To get command history
+git clone : To copy any file/project from github (or) simply clone means creating duplicate of original
